@@ -1,0 +1,88 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="julianova.ru" resolutions="1x,2x" timestamp="1438323767871">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4020741274" ref="phone>index"/>
+      <file name="rus.css" crc="4271230171" ref="phone>rus"/>
+      <file name="master_a-master.css" crc="4116595279" ref="phone>rus:phone>index"/>
+    </folder>
+    <file name="index.html" crc="258918388" seo="true" mt="1438174986939" redirect="true"/>
+    <file name="rus.html" crc="3838990751" seo="true" mt="1438175116224" redirect="true"/>
+  </folder>
+  <folder name="assets">
+    <file name="nova.mp4" crc="133660528" seo="true" mt="1437849574000"/>
+    <file name="nova.webm" crc="3876178559" seo="true" mt="1437849574000"/>
+    <file name="nova.jpg" crc="20596152" seo="true" mt="1437642972000"/>
+    <file name="robien_m_-_lost_pearl_(original_mix)2.mp3" crc="4140329018" seo="true" mt="1437929701000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3896810003"/>
+    <file name="index.css" crc="382507097" ref="index"/>
+    <file name="master_a-master.css" crc="4171235016" ref="index:rus"/>
+    <file name="rus.css" crc="4059500749" ref="rus"/>
+  </folder>
+  <folder name="fonts">
+    <file name="7fonts_ru_edition_2.woff" crc="3850976980"/>
+    <file name="7fonts_ru_edition_2.eot" crc="4221652561"/>
+    <file name="7fonts_ru_edition_2.svg" crc="23536220"/>
+    <file name="micra_allfont_ru_1.woff" crc="142287121"/>
+    <file name="micra_allfont_ru_1.eot" crc="245344535"/>
+    <file name="micra_allfont_ru_1.svg" crc="467918872"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:phone>index:phone>rus:rus"/>
+    <file name="museutils.js" crc="183364071" ref="index:phone>index:phone>rus:rus"/>
+    <file name="pie.js" crc="3827607177" ref="index:rus"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:phone>index:phone>rus:rus"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:phone>index:phone>rus:rus"/>
+    <file name="museredirect.js" crc="40941066" ref="index:rus"/>
+    <file name="webpro.js" crc="3803554875" ref="phone>index:phone>rus"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="phone>index:phone>rus"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="phone>index:phone>rus"/>
+    <file name="touchswipe.js" crc="4038331989" ref="phone>index:phone>rus"/>
+  </folder>
+  <folder name="images">
+    <file name="mail.png" crc="4038012219" seo="true" ref="phone>rus:phone>index"/>
+    <file name="skype.png" crc="3873644974" seo="true" ref="phone>rus:phone>index"/>
+    <file name="instagram.png" crc="4143716613" seo="true" ref="phone>rus:phone>index"/>
+    <file name="facebook.png" crc="416426646" seo="true" ref="phone>rus:phone>index"/>
+    <file name="vk.png" crc="4096052377" seo="true" ref="phone>rus:phone>index"/>
+    <file name="linkedin.png" crc="4117044711" seo="true" ref="phone>rus:phone>index"/>
+    <file name="behance.png" crc="203337574" seo="true" ref="phone>index:phone>rus:index:rus"/>
+    <file name="tumblr.png" crc="3918268263" seo="true" ref="phone>rus:phone>index"/>
+    <file name="futuricanew2.png" crc="499237355" ref="index:rus"/>
+    <file name="fashion.png" crc="148699347" ref="phone>index:index"/>
+    <file name="photo.png" crc="3839849692" ref="phone>index:index"/>
+    <file name="a-master-favicon.ico" crc="189516320" ref="phone>index"/>
+    <file name="fashion1.png" crc="501467743" ref="rus:phone>rus"/>
+    <file name="photo1.png" crc="3926522277" ref="rus:phone>rus"/>
+    <file name="u1713.png" crc="227719515" ref="index"/>
+    <file name="u1713_2x.png" crc="3775219378" ref="index"/>
+    <file name="u1674.png" crc="227719515" ref="rus"/>
+    <file name="u1674_2x.png" crc="3775219378" ref="rus"/>
+    <file name="mail19x19.png" crc="309378215" seo="true" ref="index"/>
+    <file name="skype19x19.png" crc="163610885" seo="true" ref="index"/>
+    <file name="vk24x24.png" crc="453048458" seo="true" ref="index"/>
+    <file name="linkedin20x20.png" crc="3877469169" seo="true" ref="index"/>
+    <file name="1.jpg" crc="3815287511" ref="phone>index:phone>rus" seo="true"/>
+    <file name="500px28x28_2x28x28_2x.png" crc="4016035939" seo="true" ref="phone>index:phone>rus"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>rus"/>
+    <file name="2.jpg" crc="4135604763" seo="true" ref="phone>index:phone>rus"/>
+    <file name="3.jpg" crc="4017637684" seo="true" ref="phone>index:phone>rus"/>
+    <file name="4.jpg" crc="443017912" seo="true" ref="phone>index:phone>rus"/>
+    <file name="5.jpg" crc="4284805632" seo="true" ref="phone>index:phone>rus"/>
+    <file name="6.jpg" crc="3963099087" seo="true" ref="phone>index:phone>rus"/>
+    <file name="7.jpg" crc="393133937" seo="true" ref="phone>index:phone>rus"/>
+    <file name="8.jpg" crc="238546590" seo="true" ref="phone>index:phone>rus"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>rus"/>
+    <file name="instagram20x20.png" crc="3809150372" seo="true" ref="index"/>
+    <file name="facebook20x20.png" crc="3992042428" seo="true" ref="index"/>
+    <file name="tumblr20x20.png" crc="3918268263" seo="true" ref="index"/>
+    <file name="futurica2.png" crc="524855262" ref="phone>index:phone>rus" seo="true"/>
+    <file name="dot hatch.png" crc="224740808" ref="index"/>
+    <file name="500px28x28_2x28x28_2x28x28.png" crc="50177585" seo="true" ref="index"/>
+    <file name="500px28x28_2x28x28_2x28x28_2x.png" crc="4162821660" seo="true" ref="index"/>
+    <file name="futurica22.png" crc="389612784" ref="index:rus"/>
+  </folder>
+  <file name="index.html" crc="4195458686" seo="true" mt="1438323758853" redirect="true"/>
+  <file name="rus.html" crc="507853827" seo="true" mt="1438323700716" redirect="true"/>
+</manifest>

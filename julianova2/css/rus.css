@@ -1,0 +1,769 @@
+/*
+
+*/
+
+.version.rus /* version checker */
+{
+	color: #0000F1;
+	background-color: #F710CD;
+}
+
+.html
+{
+	background-color: #000000;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 599px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 111px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu336
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: -100px;
+}
+
+#u336
+{
+	z-index: 2;
+	width: 400px;
+	min-height: 300px;
+	margin-right: -10000px;
+	margin-top: 89px;
+	left: 613px;
+}
+
+#u1771
+{
+	z-index: 3;
+	width: 50px;
+	min-height: 25px;
+	margin-right: -10000px;
+	margin-top: 348px;
+	left: 83px;
+}
+
+#u3668_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	left: -100px;
+}
+
+#u3668_position_content
+{
+	margin-bottom: -94px;
+	padding-top: 20px;
+}
+
+#u1673
+{
+	z-index: 35;
+	width: 72px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	left: 544px;
+	position: relative;
+}
+
+#u1676-4
+{
+	z-index: 36;
+	width: 29px;
+	min-height: 8px;
+	background-color: transparent;
+	text-transform: uppercase;
+	line-height: 12px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1676-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 8px;
+	width: 29px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1676-2
+{
+	font-size: 10px;
+}
+
+#u1674
+{
+	z-index: 44;
+	vertical-align: top;
+	width: 2px;
+	height: 12px;
+	position: relative;
+	margin-right: -10000px;
+	left: 36px;
+	background: url("../images/u1674.png") no-repeat 0px 0px;
+}
+
+.hidpi #u1674
+{
+	background-image: url("../images/u1674_2x.png");
+	background-size: 2px 12px;
+}
+
+#u1675-4
+{
+	z-index: 40;
+	width: 29px;
+	min-height: 12px;
+	background-color: transparent;
+	text-transform: uppercase;
+	line-height: 12px;
+	font-size: 10px;
+	color: #7F7F7F;
+	position: relative;
+	margin-right: -10000px;
+	left: 43px;
+}
+
+#u1675-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 29px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1676-4:hover p,#u1676-4:hover h1,#u1675-4:hover p,#u1675-4:hover h1
+{
+	color: #7F7F7F;
+	visibility: inherit;
+	line-height: 1.2;
+	text-transform: none;
+	font-size: 10px;
+	text-align: center;
+	font-family: '__Micra_5';
+	font-weight: 400;
+	font-style: normal;
+	padding: 0px;
+}
+
+#u852
+{
+	z-index: 5;
+	width: 590px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	left: 285px;
+	margin-top: 103px;
+	position: relative;
+}
+
+#u878
+{
+	z-index: 6;
+	width: 420px;
+	background-color: #7F7F7F;
+	background-color: rgba(0,0,0,0.5);
+	position: relative;
+	margin-right: -10000px;
+	padding: 32px 85px 178px;
+	-pie-background: rgba(0,0,0,0.5);
+}
+
+#u853-5
+{
+	z-index: 7;
+	width: 379px;
+	min-height: 168px;
+	background-color: transparent;
+	text-transform: uppercase;
+	margin-left: 20px;
+	position: relative;
+}
+
+#u853-2
+{
+	letter-spacing: -12px;
+}
+
+#u894
+{
+	z-index: 12;
+	width: 420px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 32px;
+	position: relative;
+}
+
+#u880-11
+{
+	z-index: 13;
+	width: 210px;
+	min-height: 70px;
+	text-transform: uppercase;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/fashion1.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u880-11:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 70px;
+	width: 210px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/fashion1.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u880-11:hover p,#u880-11:hover h1
+{
+	color: #000000;
+	visibility: inherit;
+	line-height: 1.2;
+}
+
+#u879-11
+{
+	z-index: 24;
+	width: 210px;
+	min-height: 70px;
+	text-transform: uppercase;
+	position: relative;
+	margin-right: -10000px;
+	left: 210px;
+	background: transparent url("../images/photo1.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u879-11:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 70px;
+	width: 210px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/photo1.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u879-11:hover p,#u879-11:hover h1
+{
+	color: #000000;
+	visibility: inherit;
+	line-height: 1.2;
+	text-transform: none;
+	font-size: 10px;
+	text-align: center;
+	font-family: '__Micra_5';
+	font-weight: 400;
+	font-style: normal;
+	padding: 0px;
+}
+
+#u880,#u880-3,#u880-5,#u880-7,#u880-9,#u879,#u879-3,#u879-5,#u879-7,#u879-9
+{
+	line-height: 12px;
+}
+
+#u3668,#u3668-bw
+{
+	z-index: 4;
+	min-height: 521px;
+}
+
+#u1733
+{
+	z-index: 66;
+	width: 185px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 491px;
+	left: 487px;
+}
+
+#u1735-4
+{
+	z-index: 71;
+	width: 85px;
+	min-height: 15px;
+	background-color: transparent;
+	text-transform: uppercase;
+	line-height: 13px;
+	color: #BBBBBB;
+	margin-left: 50px;
+	position: relative;
+}
+
+#u1737
+{
+	z-index: 94;
+	width: 50px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 68px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u1738
+{
+	z-index: 95;
+	width: 19px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1740
+{
+	z-index: 97;
+	width: 19px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 31px;
+}
+
+#u1738:hover,#u1740:hover
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	width: 19px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1736-4
+{
+	z-index: 67;
+	width: 150px;
+	min-height: 15px;
+	background-color: transparent;
+	text-transform: uppercase;
+	line-height: 13px;
+	color: #BBBBBB;
+	margin-left: 21px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u1742
+{
+	z-index: 79;
+	width: 185px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	top: -2px;
+	margin-bottom: -2px;
+	position: relative;
+}
+
+#u1751
+{
+	z-index: 88;
+	width: 19px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+}
+
+#u1757
+{
+	z-index: 84;
+	width: 19px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 24px;
+}
+
+#u1747
+{
+	z-index: 92;
+	width: 24px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 47px;
+}
+
+#u1747:hover
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	width: 24px;
+	min-height: 0px;
+	margin: 2px -10000px 0px 0px;
+}
+
+#u1743
+{
+	z-index: 86;
+	width: 19px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 78px;
+}
+
+#u1743:hover
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	width: 19px;
+	min-height: 0px;
+	margin: 2px -10000px 0px 0px;
+}
+
+#u1749
+{
+	z-index: 82;
+	width: 23px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 104px;
+}
+
+#u1749:hover
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	width: 23px;
+	min-height: 0px;
+	margin: 3px -10000px 0px 0px;
+}
+
+#u1753
+{
+	z-index: 80;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 135px;
+}
+
+#u1753:hover
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	width: 28px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1745
+{
+	z-index: 90;
+	width: 19px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 166px;
+}
+
+#u1751:hover,#u1757:hover,#u1745:hover
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	width: 19px;
+	min-height: 0px;
+	margin: 3px -10000px 0px 0px;
+}
+
+#u1734-4
+{
+	z-index: 75;
+	width: 174px;
+	min-height: 11px;
+	background-color: transparent;
+	text-transform: uppercase;
+	line-height: 13px;
+	color: #BBBBBB;
+	margin-left: 6px;
+	margin-top: 7px;
+	position: relative;
+}
+
+#u1700
+{
+	z-index: 45;
+	width: 1146px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 35px;
+	position: fixed;
+	bottom: 4px;
+	left: 50%;
+	margin-left: -573px;
+}
+
+#u1657
+{
+	z-index: 47;
+	width: 167px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: fixed;
+	bottom: 7px;
+	left: 7px;
+}
+
+#u1660-4
+{
+	z-index: 52;
+	width: 93px;
+	min-height: 10px;
+	background-color: transparent;
+	color: #BBBBBB;
+	line-height: 12px;
+	font-size: 10px;
+	text-transform: uppercase;
+	text-align: left;
+	position: relative;
+}
+
+#pu1659
+{
+	width: 0.01px;
+	margin-left: 1px;
+	margin-top: 3px;
+}
+
+#u1659
+{
+	z-index: 56;
+	width: 16px;
+	height: 16px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/futuricanew2.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1659:hover
+{
+	width: 16px;
+	height: 16px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/futurica22.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1658-4
+{
+	z-index: 48;
+	width: 147px;
+	min-height: 11px;
+	background-color: transparent;
+	text-transform: uppercase;
+	line-height: 12px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 19px;
+}
+
+#u1658-4:hover
+{
+	border-color: #FFFFFF;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 11px;
+	width: 147px;
+	margin: 2px -10000px 0px 0px;
+}
+
+#u1658-4:hover p,#u1658-4:hover h1
+{
+	color: #E5097F;
+	visibility: inherit;
+	line-height: 1.2;
+	text-transform: none;
+	font-size: 10px;
+	text-align: left;
+	font-family: '__Micra_5';
+	font-weight: 400;
+	font-style: normal;
+	padding: 0px;
+}
+
+#u1658-2
+{
+	font-size: 10px;
+	text-align: left;
+}
+
+#u1655
+{
+	z-index: 46;
+	width: 300px;
+	min-height: 35px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	font-size: 10px;
+	line-height: 12px;
+	position: fixed;
+	bottom: 4px;
+	left: 50%;
+	margin-left: -150px;
+}
+
+#u1661
+{
+	z-index: 57;
+	width: 278px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: fixed;
+	bottom: 10px;
+	right: 7px;
+}
+
+#u1663-4
+{
+	z-index: 62;
+	width: 58px;
+	min-height: 13px;
+	background-color: transparent;
+	color: #BBBBBB;
+	line-height: 12px;
+	font-size: 10px;
+	text-transform: uppercase;
+	text-align: right;
+	margin-left: 220px;
+	position: relative;
+}
+
+#u1663-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 58px;
+	margin: 0px 0px 0px 220px;
+}
+
+#u1663-4:hover p,#u1663-4:hover h1
+{
+	text-align: right;
+}
+
+#u1662-4
+{
+	z-index: 58;
+	width: 278px;
+	min-height: 12px;
+	background-color: transparent;
+	text-transform: uppercase;
+	line-height: 12px;
+	margin-top: 3px;
+	position: relative;
+}
+
+#u1662-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 278px;
+	margin: 3px 0px 0px;
+}
+
+#u1662-4:hover p,#u1662-4:hover h1
+{
+	color: #7F7F7F;
+	visibility: inherit;
+	line-height: 1.2;
+	text-transform: none;
+	font-size: 10px;
+	text-align: right;
+	font-family: '__Micra_5';
+	font-weight: 400;
+	font-style: normal;
+	padding: 0px;
+}
+
+#u1662-2
+{
+	font-size: 10px;
+	text-align: right;
+}
+
+@font-face
+{
+	font-family: '__Micra_5';
+	src: url('../fonts/micra_allfont_ru_1.eot');
+	src: local('☺'), url('../fonts/micra_allfont_ru_1.woff') format('woff'), url('../fonts/micra_allfont_ru_1.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Edition_5';
+	src: url('../fonts/7fonts_ru_edition_2.eot');
+	src: local('☺'), url('../fonts/7fonts_ru_edition_2.woff') format('woff'), url('../fonts/7fonts_ru_edition_2.svg') format('svg');
+	font-weight: 100;
+	font-style: normal;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

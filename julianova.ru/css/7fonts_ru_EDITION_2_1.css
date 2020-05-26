@@ -1,0 +1,9 @@
+@font-face {
+    font-family: '7fonts_ru_EDITION_2_1';
+    src: url('fonts/7fonts_ru_EDITION_2_1.eot');
+    src: url('fonts/7fonts_ru_EDITION_2_1.eot') format('embedded-opentype'),
+         url('fonts/7fonts_ru_EDITION_2_1.woff2') format('woff2'),
+         url('fonts/7fonts_ru_EDITION_2_1.woff') format('woff'),
+         url('fonts/7fonts_ru_EDITION_2_1.ttf') format('truetype'),
+         url('fonts/7fonts_ru_EDITION_2_1.svg#7fonts_ru_EDITION_2_1') format('svg');
+}

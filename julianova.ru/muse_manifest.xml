@@ -1,0 +1,118 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="jilianova.ru" resolutions="1x" timestamp="1437864989081">
+  <folder name="assets">
+    <file name="juneshelen_-_h1987_-_music_for_collection_julia_nova_darkness.mp3" crc="3859535813" seo="true" mt="1437716232000"/>
+  </folder>
+  <folder name="fonts">
+    <file name="7fonts_ru_edition_2_1.woff" crc="451104757"/>
+    <file name="7fonts_ru_edition_2_1.eot" crc="516072146"/>
+    <file name="7fonts_ru_edition_2_1.svg" crc="3945219394"/>
+    <file name="7fonts_ru_edition_2.woff" crc="3850976980"/>
+    <file name="7fonts_ru_edition_2.eot" crc="4221652561"/>
+    <file name="7fonts_ru_edition_2.svg" crc="23536220"/>
+    <file name="micra_allfont_ru_1.woff" crc="142287121"/>
+    <file name="micra_allfont_ru_1.eot" crc="245344535"/>
+    <file name="micra_allfont_ru_1.svg" crc="467918872"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="334943179" ref="tablet>index"/>
+      <file name="rus.css" crc="115470753" ref="tablet>rus"/>
+    </folder>
+    <file name="index.html" crc="77592633" seo="true" mt="1437825545555" redirect="true"/>
+    <file name="rus.html" crc="4098479929" seo="true" mt="1437864479787" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="169617545" ref="phone>index"/>
+      <file name="rus.css" crc="3796617464" ref="phone>rus"/>
+    </folder>
+    <file name="index.html" crc="3978926017" seo="true" mt="1437825545558" redirect="true"/>
+    <file name="rus.html" crc="471921372" seo="true" mt="1437864445895" redirect="true"/>
+  </folder>
+  <folder name="images">
+    <file name="julianova.png" crc="497675472" seo="true" ref="phone>index:tablet>index:phone>rus:tablet>rus"/>
+    <file name="mail.png" crc="37656181" seo="true" ref="phone>index:index:phone>rus:tablet>index:tablet>rus"/>
+    <file name="instagram.png" crc="4281678288" seo="true" ref="index:phone>index:phone>rus:tablet>index:tablet>rus"/>
+    <file name="vk.png" crc="4258937568" seo="true" ref="index:phone>index:phone>rus:tablet>index:tablet>rus"/>
+    <file name="500.png" crc="254194386" seo="true" ref="index:phone>index:phone>rus:tablet>index:tablet>rus"/>
+    <file name="nova.jpg" crc="20596152" ref="phone>index:tablet>index:phone>rus:tablet>rus"/>
+    <file name="blank.gif" crc="4208392903" ref="tablet>index:phone>index:phone>rus:tablet>rus"/>
+    <file name="u595.png" crc="3913640039" ref="index"/>
+    <file name="u596-r.png" crc="333169113" ref="index"/>
+    <file name="u597-r.png" crc="193792314" ref="index"/>
+    <file name="u598-7.png" crc="111720752" ref="index"/>
+    <file name="skype.png" crc="4286101901" seo="true" ref="index:phone>index:phone>rus:tablet>index:tablet>rus"/>
+    <file name="facebook.png" crc="243468264" seo="true" ref="index:phone>index:phone>rus:tablet>index:tablet>rus"/>
+    <file name="linkedin.png" crc="469990880" seo="true" ref="index:phone>index:phone>rus:tablet>index:tablet>rus"/>
+    <file name="behance.png" crc="353223021" seo="true" ref="index:phone>index:phone>rus:tablet>index:tablet>rus"/>
+    <file name="tumblr.png" crc="400013960" seo="true" ref="index:phone>index:phone>rus:tablet>index:tablet>rus"/>
+    <file name="futuricanew2.png" crc="300924877" seo="true" ref="tablet>index:phone>index:phone>rus:tablet>rus:index"/>
+    <file name="u801.png" crc="227719515" ref="index"/>
+    <file name="u1109-4-a.png" crc="3773420456" ref="phone>index"/>
+    <file name="u1110.png" crc="227719515" ref="phone>index"/>
+    <file name="u1111-4.png" crc="385877030" ref="phone>index"/>
+    <file name="u1124_states.png" crc="435103189" ref="phone>index"/>
+    <file name="u1124_states-r.png" crc="435103189" ref="phone>index"/>
+    <file name="u1125_states.png" crc="3790543789" ref="phone>index"/>
+    <file name="u1125_states-r.png" crc="3790543789" ref="phone>index"/>
+    <file name="u1135-4.png" crc="348684896" ref="phone>index"/>
+    <file name="u1146-4.png" crc="179191597" ref="phone>index"/>
+    <file name="u1147-4.png" crc="4216478233" ref="phone>index"/>
+    <file name="u1116-4.png" crc="3991862741" ref="phone>index"/>
+    <file name="u1115_states.png" crc="61935918" ref="phone>index"/>
+    <file name="u1115_states-r.png" crc="61935918" ref="phone>index"/>
+    <file name="u1247-4.png" crc="3773420456" ref="phone>rus"/>
+    <file name="u1246.png" crc="227719515" ref="phone>rus"/>
+    <file name="u1248-4-a.png" crc="385877030" ref="phone>rus"/>
+    <file name="u1222_states.png" crc="4192121050" ref="phone>rus"/>
+    <file name="u1222_states-r.png" crc="3824478339" ref="phone>rus"/>
+    <file name="u1221_states.png" crc="403917964" ref="phone>rus"/>
+    <file name="u1221_states-r.png" crc="149786386" ref="phone>rus"/>
+    <file name="u1235-4.png" crc="4241969445" ref="phone>rus"/>
+    <file name="u1240-4.png" crc="134526217" ref="phone>rus"/>
+    <file name="u1224-4.png" crc="177862318" ref="phone>rus"/>
+    <file name="u1251-4.png" crc="3991862741" ref="phone>rus"/>
+    <file name="u1250_states.png" crc="61935918" ref="phone>rus"/>
+    <file name="u1250_states-r.png" crc="61935918" ref="phone>rus"/>
+    <file name="u940-4-a.png" crc="3773420456" ref="tablet>index"/>
+    <file name="u939.png" crc="227719515" ref="tablet>index"/>
+    <file name="u938-4.png" crc="385877030" ref="tablet>index"/>
+    <file name="u974_states.png" crc="4141988023" ref="tablet>index"/>
+    <file name="u974_states-r.png" crc="4141988023" ref="tablet>index"/>
+    <file name="u975_states.png" crc="400027525" ref="tablet>index"/>
+    <file name="u975_states-r.png" crc="400027525" ref="tablet>index"/>
+    <file name="u953-4.png" crc="348684896" ref="tablet>index"/>
+    <file name="u952-4.png" crc="179191597" ref="tablet>index"/>
+    <file name="u954-4.png" crc="4216478233" ref="tablet>index"/>
+    <file name="u942-4.png" crc="3991862741" ref="tablet>index"/>
+    <file name="u945_states.png" crc="61935918" ref="tablet>index"/>
+    <file name="u945_states-r.png" crc="61935918" ref="tablet>index"/>
+    <file name="u1087-4.png" crc="3773420456" ref="tablet>rus"/>
+    <file name="u1085.png" crc="227719515" ref="tablet>rus"/>
+    <file name="u1086-4-a.png" crc="385877030" ref="tablet>rus"/>
+    <file name="u1050_states.png" crc="4112295434" ref="tablet>rus"/>
+    <file name="u1050_states-r.png" crc="4112295434" ref="tablet>rus"/>
+    <file name="u1049_states.png" crc="3978472965" ref="tablet>rus"/>
+    <file name="u1049_states-r.png" crc="3978472965" ref="tablet>rus"/>
+    <file name="u1058-4.png" crc="4241969445" ref="tablet>rus"/>
+    <file name="u1059-4.png" crc="4050791555" ref="tablet>rus"/>
+    <file name="u1064-4.png" crc="177862318" ref="tablet>rus"/>
+    <file name="u1076-4.png" crc="3991862741" ref="tablet>rus"/>
+    <file name="u1077_states.png" crc="61935918" ref="tablet>rus"/>
+    <file name="u1077_states-r.png" crc="61935918" ref="tablet>rus"/>
+    <file name="u783-4.png" crc="4278693104" ref="index"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="4259035189" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:phone>index:tablet>index:phone>rus:tablet>rus"/>
+    <file name="museutils.js" crc="183364071" ref="index:phone>index:tablet>index:phone>rus:tablet>rus"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:phone>index:tablet>index:phone>rus:tablet>rus"/>
+    <file name="museredirect.js" crc="40941066" ref="index:tablet>index:tablet>rus"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="phone>index:phone>rus:tablet>index:tablet>rus"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3813085164" seo="true" mt="1437864953000" redirect="true"/>
+</manifest>

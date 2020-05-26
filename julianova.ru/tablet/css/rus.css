@@ -1,0 +1,438 @@
+.version.rus /* version checker */
+{
+	color: #000006;
+	background-color: #E1F1A1;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 442px;
+	min-height: 485px;
+	border-style: none;
+	border-color: #000000;
+	padding: 20px 158px 132px 168px;
+	background: #000000 url("../../images/nova.jpg") no-repeat left center;
+	background-size: cover;
+}
+
+#u1047
+{
+	z-index: 2;
+	width: 442px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1084
+{
+	z-index: 3;
+	width: 72px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 180px;
+	position: relative;
+}
+
+#u1087-4
+{
+	z-index: 4;
+	position: relative;
+	width: 29px;
+	margin-right: -10000px;
+}
+
+#u1085
+{
+	z-index: 12;
+	vertical-align: top;
+	width: 2px;
+	height: 12px;
+	position: relative;
+	margin-right: -10000px;
+	left: 36px;
+	background: url("../../images/u1085.png") no-repeat 0px 0px;
+}
+
+#u1086-4
+{
+	z-index: 8;
+	position: relative;
+	width: 29px;
+	margin-right: -10000px;
+	left: 43px;
+}
+
+#u1087-4_img,#u1086-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u1078
+{
+	z-index: 23;
+	width: 193px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 119px;
+	margin-top: 33px;
+	position: relative;
+}
+
+#u1082
+{
+	z-index: 24;
+	width: 22px;
+	min-height: 22px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 86px;
+}
+
+#u1079
+{
+	z-index: 25;
+	width: 193px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1080
+{
+	z-index: 26;
+	width: 193px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1048
+{
+	z-index: 28;
+	width: 442px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 32px;
+	position: relative;
+}
+
+#u1050
+{
+	z-index: 30;
+	position: relative;
+	width: 216px;
+	margin-right: -10000px;
+}
+
+#u1050_states
+{
+	height: 70px;
+	width: 216px;
+	vertical-align: top;
+	background: url("../../images/u1050_states.png") no-repeat 0px 0px;
+}
+
+#u1050:hover #u1050_states
+{
+	background: url("../../images/u1050_states-r.png") no-repeat 0px 0px;
+}
+
+#u1049
+{
+	z-index: 33;
+	position: relative;
+	width: 216px;
+	margin-right: -10000px;
+	left: 226px;
+}
+
+#u1049_states
+{
+	height: 70px;
+	width: 216px;
+	vertical-align: top;
+	background: url("../../images/u1049_states.png") no-repeat 0px 0px;
+}
+
+#u1049:hover #u1049_states
+{
+	background: url("../../images/u1049_states-r.png") no-repeat 0px 0px;
+}
+
+#u1051
+{
+	z-index: 35;
+	width: 303px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: 65px;
+	margin-top: 33px;
+	position: relative;
+}
+
+#u1058-4
+{
+	z-index: 40;
+	display: block;
+	vertical-align: top;
+	margin-left: 109px;
+	position: relative;
+}
+
+#pu1060
+{
+	width: 0.01px;
+	margin-left: 112px;
+	margin-top: 4px;
+}
+
+#u1060
+{
+	z-index: 50;
+	width: 33px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1071
+{
+	z-index: 48;
+	width: 32px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 48px;
+}
+
+#u1059-4
+{
+	z-index: 36;
+	display: block;
+	vertical-align: top;
+	margin-left: 84px;
+	margin-top: 21px;
+	position: relative;
+}
+
+#pu1069
+{
+	width: 0.01px;
+	margin-top: 3px;
+}
+
+#u1069
+{
+	z-index: 62;
+	width: 32px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+}
+
+#u1054
+{
+	z-index: 60;
+	width: 32px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 41px;
+}
+
+#u1067
+{
+	z-index: 54;
+	width: 33px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 82px;
+}
+
+#u1056
+{
+	z-index: 64;
+	width: 32px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 128px;
+}
+
+#u1052
+{
+	z-index: 52;
+	width: 32px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 176px;
+}
+
+#u1065
+{
+	z-index: 58;
+	width: 40px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 224px;
+}
+
+#u1062
+{
+	z-index: 56;
+	width: 32px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 271px;
+}
+
+#u1064-4
+{
+	z-index: 44;
+	display: block;
+	vertical-align: top;
+	margin-left: 74px;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u1073
+{
+	z-index: 13;
+	width: 131px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 150px;
+	margin-top: 30px;
+	position: relative;
+}
+
+#u1074
+{
+	z-index: 14;
+	width: 16px;
+	background-color: transparent;
+	margin-left: 58px;
+	position: relative;
+}
+
+#u1074:hover
+{
+	background-color: transparent;
+	width: 16px;
+	min-height: 0px;
+	margin: 0px 0px 0px 58px;
+}
+
+#u1074_img
+{
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+}
+
+#u1074_img:hover
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u1076-4
+{
+	z-index: 19;
+	display: block;
+	vertical-align: top;
+	margin-left: 32px;
+	margin-top: 6px;
+	position: relative;
+}
+
+#u1077
+{
+	z-index: 17;
+	margin-top: 6px;
+	position: relative;
+}
+
+#u1077_states
+{
+	height: 11px;
+	width: 131px;
+	vertical-align: top;
+	background: url("../../images/u1077_states.png") no-repeat 0px 0px;
+}
+
+#u1077:hover #u1077_states
+{
+	background: url("../../images/u1077_states-r.png") no-repeat 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

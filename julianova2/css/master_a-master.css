@@ -1,0 +1,19 @@
+#u336,#u1771
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u3668
+{
+	border-color: #000000;
+	background: transparent url("../images/dot%20hatch.png") repeat left top;
+}
+
+#u3668_align_to_page
+{
+	position: relative;
+}
+
